@@ -1,1 +1,2 @@
-export { default as useDownloadURL, DownloadURLHook } from './useDownloadURL';
+export { default as useDownloadURL } from './useDownloadURL';
+export type { DownloadURLHook } from './useDownloadURL';
